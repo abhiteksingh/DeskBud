@@ -22,3 +22,6 @@ dist/
 # Compiled executables and installers
 *.exe
 *.msi
+
+# Personal documentation
+understanding_changes.md
