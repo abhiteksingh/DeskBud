@@ -1,0 +1,24 @@
+# Exclude environment variables and API keys
+.env
+
+# Exclude task history database
+memory/history.db
+history.db
+
+# Python compilation artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Compiled executables and installers
+*.exe
+*.msi
